@@ -120,9 +120,6 @@
   <img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/BASH-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF99" />
 </p>
 
 ### <img src="https://img.shields.io/badge//_ANALYTICS_PLATFORMS_%26_BI-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" />
@@ -130,7 +127,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/POWER_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/DAX-3A3A3A?style=for-the-badge&logo=microsoft&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/SEMANTIC_MODELING-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/EXCEL_ADVANCED-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF99" />
 </p>
@@ -141,9 +137,6 @@
   <img src="https://img.shields.io/badge/FASTAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/FLASK-0D1117?style=for-the-badge&logo=flask&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/NEXT.JS-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF99" />
 </p>
 
 ### <img src="https://img.shields.io/badge//_PLATFORMS_%26_LIBRARIES-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" />
@@ -157,7 +150,6 @@
   <img src="https://img.shields.io/badge/OPENCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FF99" />
 </p>
 
 ### <img src="https://img.shields.io/badge//_DATABASES-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" />
@@ -165,7 +157,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/SQLITE-0D1117?style=for-the-badge&logo=sqlite&logoColor=C9D1D9" />
   <img src="https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF99" />
 </p>
 
@@ -181,7 +172,6 @@
   <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=spacy&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/EXPLAINABLE_AI-0D1117?style=for-the-badge&logo=python&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/HARDWARE_NATIVE_AI-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/AGENTIC_SYSTEMS-0D1117?style=for-the-badge&logo=buffer&logoColor=A78BFA" />
   <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=FF4B4B" />
 </p>
@@ -193,7 +183,6 @@
   <img src="https://img.shields.io/badge/STREAMLIT_CLOUD-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
   <img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NETLIFY-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF99" />
 </p>
 
 ### <img src="https://img.shields.io/badge//_TESTING-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" />
@@ -202,7 +191,6 @@
   <img src="https://img.shields.io/badge/PYTEST-0D1117?style=for-the-badge&logo=pytest&logoColor=00FF99" />
   <img src="https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=FFB000" />
   <img src="https://img.shields.io/badge/MODEL_VALIDATION-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/STRESS_TESTING-0D1117?style=for-the-badge&logo=datadog&logoColor=FF4B4B" />
 </p>
 
 </div>
